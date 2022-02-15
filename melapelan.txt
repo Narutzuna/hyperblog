@@ -1,4 +1,8 @@
 Probando el funcionamiento de git para continuar el curso con freddy
 1 2 3 4 5 6 7
 habia una vez dos patito feo que queria volar alto 
+<<<<<<< HEAD
 habia nacido en una lago a las a fueras de la cuidad 
+=======
+esto es una prueba loca x3
+>>>>>>> prueba para rebase
